@@ -15,7 +15,9 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "download": "^8.0.0",
+    "lodash": "^4.17.20",
     "superagent": "^6.1.0",
+    "superagent-charset": "^1.2.0",
     "tiny-async-pool": "^1.1.0",
     "yaml": "^1.10.0"
   }

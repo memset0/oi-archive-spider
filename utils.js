@@ -1,6 +1,6 @@
-const fs = require('fs');
-const path = require('path');
-const process = require('process');
+const fs = require('fs')
+const path = require('path')
+const process = require('process')
 
 module.exports = {
 	path(dir) {
@@ -23,6 +23,4 @@ module.exports = {
 			return root + '/' + uri;
 		}
 	},
-
-
 };
