@@ -1,0 +1,22 @@
+{
+  "name": "oi-archive-spider",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memset0/oi-archive-spider.git"
+  },
+  "author": "memset0",
+  "license": "GNU v3",
+  "bugs": {
+    "url": "https://github.com/memset0/oi-archive-spider/issues"
+  },
+  "homepage": "https://github.com/memset0/oi-archive-spider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "download": "^8.0.0",
+    "superagent": "^6.1.0",
+    "tiny-async-pool": "^1.1.0",
+    "yaml": "^1.10.0"
+  }
+}
